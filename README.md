@@ -1,3 +1,7 @@
+# Archived in favour of:
+- https://github.com/cultureamp/kotlin-eventsourcing 
+- https://github.com/cultureamp/kotlin-es-sample-service
+
 # Build framework jar
 ```
 ./gradlew jar
